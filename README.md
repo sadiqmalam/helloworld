@@ -1,3 +1,7 @@
+### Summary
+
+I am a Tech Entrepreneur with about 20 years of experience in IT. Founder of a number of Startup companies. Traveled and worked in 3 continents around the world. Currenly lives in Dhaka, Bangladesh at GMT+6 timezone.
+
 
 ### Education & Scholarships
 
