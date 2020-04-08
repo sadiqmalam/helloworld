@@ -1,9 +1,8 @@
 ## Resume of Sadiq M. Alam
 
-## Tech Entreprenur, Engineer
+### Tech Entreprenur, Engineer
 
-
-
+----
 
 ### Education
 
@@ -51,6 +50,8 @@ Excellent proficiency in communicative and formal English. Scored 273 out of 300
 
 ### Employment Records
 
+----
+
 **Metamorphosis Ltd.** Jan 2016 - Current 
 
 *An IT based Limited company based in Dhaka, Bangladesh with focus of ERP Software Solution*
@@ -67,6 +68,8 @@ Designation: **Managing Director**
 
 - Business Scope analysis
 
+----
+
 **MetaKave** Jul 2014 - Current
 
 **An IT Outsourcing company based in Dhaka, Bangladesh**
@@ -82,6 +85,8 @@ Designation: **Head of Ideas**
 - Managing Communication between Clients and Developer
 
 - Business Scope analysis
+
+----
 
 **UgoRound Pvt. Ltd** Jul 2016 - Apr 2018
 
@@ -111,6 +116,8 @@ Designation: **CTO**
 
 - Platform Feature Development & Testing
 
+----
+
 **CodeBoxr** Nov 2011 - Jun 2018
 
 *An innovative Startup Company*
@@ -135,6 +142,8 @@ Designation: **Founder & COO**
 
 - Adwords Campaign for Google Ads
 
+----
+
 
 **JICA** Jun 2013 - Sep 2013
 
@@ -150,6 +159,8 @@ Designation: **Data Analyst and Researcher**
 
 -  Data Analysis and Reporting
 
+----
+
 **Gonona Technologies** Dec 2010 - Nov 2011
 
 *IT Startup*
@@ -163,6 +174,8 @@ Designation: **Consultant**
 - Developing strategy for international business
 
 - Project management
+
+----
 
 
 **Sweet Information Architecture** Mar 2010 - Dec 2010
@@ -178,6 +191,8 @@ Designation: **Consultant & Information Architect**
 - Project Communication
 
 - Project Management
+
+----
 
 **Keystore BSC Ltd.**
 
@@ -195,6 +210,8 @@ Designation: **Technical Consultant**
 
 - WordPress based Development
 
+----
+
 
 **VIA Consultants** Sep2009 - Mar 2010
 
@@ -210,6 +227,8 @@ Designation: **Consultant**
 
 - Supervision
 
+----
+
 
 **Green Mountain School** Sep 2008 - Aug 2009
 
@@ -223,6 +242,8 @@ Designation: **IT Specialist**
 
 - IT Training
 
+----
+
 **KGNU Radio** Jun 2008 - Aug 2008
 
 Designation: **IT Specialist**
@@ -232,6 +253,8 @@ Designation: **IT Specialist**
 - IT Support
 
 - Web Development
+
+----
 
 **National University of Singapore** Oct 2006 - Jul 2007
 
@@ -247,6 +270,7 @@ Designation: **Researcher**
 
 - Reporting
 
+----
 
 **The Monthly Technology Today**  Jun 2002 - Feb 2003
 
@@ -258,6 +282,7 @@ Designation: **Executive Editor**
 
 - Technical Writing
 
+----
 
 **The Monthly Computer Tomorrow** Jan 2001 - Feb 2002
 
