@@ -142,7 +142,7 @@ Designation: **Data Analyst and Researcher**
 
 ----
 
-**Gonona Technologies** Dec 2010 - Nov 2011
+**Gonona Technologies** / Dec 2010 - Nov 2011
 
 *IT Startup*
 
