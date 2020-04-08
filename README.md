@@ -196,4 +196,75 @@ Designation: **Technical Consultant**
 - WordPress based Development
 
 
+**VIA Consultants** Sep2009 - Mar 2010
 
+*Consulting Firm*
+
+Designation: **Consultant**
+
+*Duties & Responsibilities:*
+
+- Project Management (Mechanical) for Head Quarter of Telenor (GP House)
+
+- Project Communication
+
+- Supervision
+
+
+**Green Mountain School** Sep 2008 - Aug 2009
+
+Designation: **IT Specialist**
+
+*Duties & Responsibilities:*
+
+- IT Support
+
+- Web Development
+
+- IT Training
+
+**KGNU Radio** Jun 2008 - Aug 2008
+
+Designation: **IT Specialist**
+
+*Duties & Responsibilities:*
+
+- IT Support
+
+- Web Development
+
+**National University of Singapore** Oct 2006 - Jul 2007
+
+*Singapore NanoScience and NanoTechnology Initiative (NUSNNI) in the Nano-Micro Fabrication focus group*
+
+Designation: **Researcher**
+
+*Duties & Responsibilities:*
+
+- Conducting Research
+
+- Communication on Research Findings
+
+- Reporting
+
+
+**The Monthly Technology Today**  Jun 2002 - Feb 2003
+
+Designation: **Executive Editor**
+
+*Duties & Responsibilities:*
+
+- Editorial Work
+
+- Technical Writing
+
+
+**The Monthly Computer Tomorrow** Jan 2001 - Feb 2002
+
+Designation: **Technical Editor**
+
+*Duties & Responsibilities:*
+
+- Editorial Work
+
+- Technical Writing
