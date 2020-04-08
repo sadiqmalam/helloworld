@@ -1,19 +1,19 @@
 
 ### Education
 
-- [x]  **Masters of Engineering (M. Engg.)** by Research at National University of Singapore (NUS). 2006, Singapore
+- [x]&nbsp;  **Masters of Engineering (M. Engg.)** by Research at National University of Singapore (NUS). 2006, Singapore
 
-- [x]  Research Scholarship award for Master in Engineering by Research Program, National University of Singapore (NUS), Singapore, August 2004 to August 2006
+- [x]&nbsp;  Research Scholarship award for Master in Engineering by Research Program, National University of Singapore (NUS), Singapore, August 2004 to August 2006
 
-- [x]  Awarded Heidenhain Academic Scholarship for European Society of Precision Engineering and Nanotechnology (Euspen) conference. Baden, Austria, 2006.
+- [x]&nbsp;  Awarded Heidenhain Academic Scholarship for European Society of Precision Engineering and Nanotechnology (Euspen) conference. Baden, Austria, 2006.
 
-- [x]  **Bachelor of Science (B. Sc.)** in Mechanical Engineering from Bangladesh University of Engineering & Technology (BUET). 2004. First division. Ranked among top 8 from the Class
+- [x]&nbsp;  **Bachelor of Science (B. Sc.)** in Mechanical Engineering from Bangladesh University of Engineering & Technology (BUET). 2004. First division. Ranked among top 8 from the Class
 
-- [x]  Merit Scholarship Awarded in the Dept of Mechanical Engineering, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh, academic terms 1997-98 to 2000-01
+- [x]&nbsp;  Merit Scholarship Awarded in the Dept of Mechanical Engineering, Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh, academic terms 1997-98 to 2000-01
 
-- [x]  Graduate Division Unrestricted Fellowship awarded by the Faculty Committee of Department of Biomedical Engineering for Fall 2007, Winter 2008 and Summer 2008.
+- [x]&nbsp;  Graduate Division Unrestricted Fellowship awarded by the Faculty Committee of Department of Biomedical Engineering for Fall 2007, Winter 2008 and Summer 2008.
 
-- [x]  Fellowship for 2007-2008 at Professor Edythe D. London’s Laboratory of Molecular Neuroimaging, University of California Los Angeles, USA.
+- [x]&nbsp;  Fellowship for 2007-2008 at Professor Edythe D. London’s Laboratory of Molecular Neuroimaging, University of California Los Angeles, USA.
 
 
 ### Training
