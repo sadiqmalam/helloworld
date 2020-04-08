@@ -33,7 +33,7 @@ I am a Tech Entrepreneur with about 20 years of experience in IT. Founder of a n
 
 ----
 
-**Metamorphosis Ltd.** Jan 2016 - Current 
+**Metamorphosis Ltd.** / Jan 2016 - Current 
 
 *An IT based Limited company based in Dhaka, Bangladesh with focus of ERP Software Solution*
 
@@ -51,7 +51,7 @@ Designation: **Managing Director**
 
 ----
 
-**MetaKave** Jul 2014 - Current
+**MetaKave** / Jul 2014 - Current
 
 **An IT Outsourcing company based in Dhaka, Bangladesh**
 
@@ -69,7 +69,7 @@ Designation: **Head of Ideas**
 
 ----
 
-**UgoRound Pvt. Ltd** Jul 2016 - Apr 2018
+**UgoRound Pvt. Ltd** / Jul 2016 - Apr 2018
 
 *A Sydney based StartupCompany building a Government to Citizen Communication Platform*
 
@@ -99,7 +99,7 @@ Designation: **CTO**
 
 ----
 
-**CodeBoxr** Nov 2011 - Jun 2018
+**CodeBoxr** / Nov 2011 - Jun 2018
 
 *An innovative Startup Company*
 
@@ -126,7 +126,7 @@ Designation: **Founder & COO**
 ----
 
 
-**JICA** Jun 2013 - Sep 2013
+**JICA** / Jun 2013 - Sep 2013
 
 *(The JICA Support Program for Strengthening Primary Teacher Training on Science and Mathematics under PEDP II)*
 
@@ -159,7 +159,7 @@ Designation: **Consultant**
 ----
 
 
-**Sweet Information Architecture** Mar 2010 - Dec 2010
+**Sweet Information Architecture** / Mar 2010 - Dec 2010
 
 *Information Architecture Company, London, UK*
 
@@ -175,7 +175,7 @@ Designation: **Consultant & Information Architect**
 
 ----
 
-**Keystore BSC Ltd.**
+**Keystore BSC Ltd.** /  Nov 2011 - Jun 2014
 
 *A Consulting Firm based in Dhaka, Bangladesh*
 
@@ -194,7 +194,7 @@ Designation: **Technical Consultant**
 ----
 
 
-**VIA Consultants** Sep2009 - Mar 2010
+**VIA Consultants** / Sep 2009 - Mar 2010
 
 *Consulting Firm*
 
@@ -225,7 +225,7 @@ Designation: **IT Specialist**
 
 ----
 
-**KGNU Radio** Jun 2008 - Aug 2008
+**KGNU Radio** / Jun 2008 - Aug 2008
 
 Designation: **IT Specialist**
 
@@ -237,7 +237,7 @@ Designation: **IT Specialist**
 
 ----
 
-**National University of Singapore** Oct 2006 - Jul 2007
+**National University of Singapore** / Oct 2006 - Jul 2007
 
 *Singapore NanoScience and NanoTechnology Initiative (NUSNNI) in the Nano-Micro Fabrication focus group*
 
@@ -253,7 +253,7 @@ Designation: **Researcher**
 
 ----
 
-**The Monthly Technology Today**  Jun 2002 - Feb 2003
+**The Monthly Technology Today** / Jun 2002 - Feb 2003
 
 Designation: **Executive Editor**
 
@@ -265,7 +265,7 @@ Designation: **Executive Editor**
 
 ----
 
-**The Monthly Computer Tomorrow** Jan 2001 - Feb 2002
+**The Monthly Computer Tomorrow** / Jan 2001 - Feb 2002
 
 Designation: **Technical Editor**
 
@@ -284,7 +284,7 @@ English | Fluent | Fluent | Fluent
 Bangla | Native | Native | Native
 Arabic | None | Basic | Basic
 
-Excellent proficiency in communicative and formal English. Scored 273 out of 300 (91%) in Computer based TOEFL (Test of English as Foreign Language), 2004 and 114 out of 120 (95%) TOEFL iBT (internet -based Test), 2006.
+*Excellent proficiency in communicative and formal English. Scored 273 out of 300 (91%) in Computer based TOEFL (Test of English as Foreign Language), 2004 and 114 out of 120 (95%) TOEFL iBT (internet-based Test), 2006.*
 
 
 ### Training
@@ -292,3 +292,8 @@ Excellent proficiency in communicative and formal English. Scored 273 out of 300
 - **Training on Information Architecture** with Roya Jakoby, Founder of Sweet Information Architecture, London, United Kingdom, 2011
 
 - **Training on ISO 9000** in workshop by BDJobs, 2004
+
+
+### Personal
+
+Married.
