@@ -211,7 +211,7 @@ Designation: **Consultant**
 ----
 
 
-**Green Mountain School** Sep 2008 - Aug 2009
+**Green Mountain School** / Sep 2008 - Aug 2009
 
 Designation: **IT Specialist**
 
