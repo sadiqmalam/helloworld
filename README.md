@@ -1,8 +1,3 @@
-## Resume of Sadiq M. Alam
-
-### Tech Entreprenur, Engineer
-
-----
 
 ### Education
 
