@@ -54,7 +54,7 @@ Designation: **Managing Director**
 
 **MetaKave** / Jul 2014 - Current / Dhaka, Rangpur
 
-**An IT Outsourcing company based in Dhaka, Bangladesh**
+*An IT Outsourcing company based in Dhaka, Bangladesh*
 
 Designation: **Head of Ideas**
 
@@ -126,10 +126,9 @@ Designation: **Founder & COO**
 
 ----
 
-
 **JICA** / Jun 2013 - Sep 2013 / Mymensingh
 
-*(The JICA Support Program for Strengthening Primary Teacher Training on Science and Mathematics under PEDP II)*
+*The JICA Support Program for Strengthening Primary Teacher Training on Science and Mathematics under PEDP II*
 
 Designation: **Data Analyst and Researcher**
 
@@ -158,7 +157,6 @@ Designation: **Consultant**
 - Project management
 
 ----
-
 
 **Sweet Information Architecture** / Mar 2010 - Dec 2010 / London
 
@@ -194,7 +192,6 @@ Designation: **Technical Consultant**
 
 ----
 
-
 **VIA Consultants** / Sep 2009 - Mar 2010 / Dhaka
 
 *Consulting Firm*
@@ -210,7 +207,6 @@ Designation: **Consultant**
 - Supervision
 
 ----
-
 
 **Green Mountain School** / Sep 2008 - Aug 2009 / Charlottesville
 
