@@ -100,7 +100,29 @@ Designation: **CTO**
 
 ----
 
-**CodeBoxr** / Nov 2011 - Jun 2018 / Dhaka
+**CloudeNotes** / June 2013 - Jun 2017 / Sydney
+
+*A Sydney based Startup Company in Education Sector (Platform as a Service)*
+
+Designation: **Founder & CTO**
+
+*Duties & Responsibilities:*
+
+- Platform Requirement Analysis
+
+- Technological R&D
+
+- Managing and Supervising of Off-Shore Dev Team
+
+- Information Architecture
+
+- Leading Technical Team
+
+- Startup Pitching Activities
+
+----
+
+**Codeboxr** / Nov 2011 - Jun 2018 / Dhaka
 
 *An innovative Startup Company*
 
