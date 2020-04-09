@@ -303,7 +303,7 @@ Married.
 
 ### Available for Projects
 
-I and my Team is available for custom development projects. My team has the skill-sets of PHP, Python, Dot Net, Android/ Java, Dart, WordPress, Joomla. For free quotation please contact me via Whatsapp, Phone, Email or Skype.
+I and my Team are available for custom development projects. My team has the skill-sets of PHP, Python, Dot Net, Android/ Java, Dart, WordPress, Joomla. For free quotation please contact me via Whatsapp, Phone, Email or Skype.
 
 
 ### Contact Details
