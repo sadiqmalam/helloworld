@@ -34,7 +34,7 @@ I am a Tech Entrepreneur with about 20 years of experience in IT. Founder of a n
 
 ----
 
-**Metamorphosis Ltd.** / Jan 2016 - Current 
+**Metamorphosis Ltd.** / Jan 2016 - Current / Dhaka
 
 *An IT based Limited company based in Dhaka, Bangladesh with focus of ERP Software Solution*
 
@@ -52,7 +52,7 @@ Designation: **Managing Director**
 
 ----
 
-**MetaKave** / Jul 2014 - Current
+**MetaKave** / Jul 2014 - Current / Dhaka, Rangpur
 
 **An IT Outsourcing company based in Dhaka, Bangladesh**
 
@@ -70,7 +70,7 @@ Designation: **Head of Ideas**
 
 ----
 
-**UgoRound Pvt. Ltd** / Jul 2016 - Apr 2018
+**UgoRound Pvt. Ltd** / Jul 2016 - Apr 2018 / Sydney
 
 *A Sydney based StartupCompany building a Government to Citizen Communication Platform*
 
@@ -100,7 +100,7 @@ Designation: **CTO**
 
 ----
 
-**CodeBoxr** / Nov 2011 - Jun 2018
+**CodeBoxr** / Nov 2011 - Jun 2018 / Dhaka
 
 *An innovative Startup Company*
 
@@ -127,7 +127,7 @@ Designation: **Founder & COO**
 ----
 
 
-**JICA** / Jun 2013 - Sep 2013
+**JICA** / Jun 2013 - Sep 2013 / Mymensingh
 
 *(The JICA Support Program for Strengthening Primary Teacher Training on Science and Mathematics under PEDP II)*
 
@@ -143,7 +143,7 @@ Designation: **Data Analyst and Researcher**
 
 ----
 
-**Gonona Technologies** / Dec 2010 - Nov 2011
+**Gonona Technologies** / Dec 2010 - Nov 2011 / Dhaka
 
 *IT Startup*
 
@@ -160,7 +160,7 @@ Designation: **Consultant**
 ----
 
 
-**Sweet Information Architecture** / Mar 2010 - Dec 2010
+**Sweet Information Architecture** / Mar 2010 - Dec 2010 / London
 
 *Information Architecture Company, London, UK*
 
@@ -176,7 +176,7 @@ Designation: **Consultant & Information Architect**
 
 ----
 
-**Keystore BSC Ltd.** /  Nov 2011 - Jun 2014
+**Keystore BSC Ltd.** /  Nov 2011 - Jun 2014 / Dhaka
 
 *A Consulting Firm based in Dhaka, Bangladesh*
 
@@ -195,7 +195,7 @@ Designation: **Technical Consultant**
 ----
 
 
-**VIA Consultants** / Sep 2009 - Mar 2010
+**VIA Consultants** / Sep 2009 - Mar 2010 / Dhaka
 
 *Consulting Firm*
 
@@ -212,7 +212,7 @@ Designation: **Consultant**
 ----
 
 
-**Green Mountain School** / Sep 2008 - Aug 2009
+**Green Mountain School** / Sep 2008 - Aug 2009 / Charlottesville
 
 Designation: **IT Specialist**
 
@@ -226,7 +226,7 @@ Designation: **IT Specialist**
 
 ----
 
-**KGNU Radio** / Jun 2008 - Aug 2008
+**KGNU Radio** / Jun 2008 - Aug 2008 / Boulder
 
 Designation: **IT Specialist**
 
@@ -238,7 +238,7 @@ Designation: **IT Specialist**
 
 ----
 
-**National University of Singapore** / Oct 2006 - Jul 2007
+**National University of Singapore** / Oct 2006 - Jul 2007 / Singapore
 
 *Singapore NanoScience and NanoTechnology Initiative (NUSNNI) in the Nano-Micro Fabrication focus group*
 
@@ -254,7 +254,7 @@ Designation: **Researcher**
 
 ----
 
-**The Monthly Technology Today** / Jun 2002 - Feb 2003
+**The Monthly Technology Today** / Jun 2002 - Feb 2003 / Dhaka
 
 Designation: **Executive Editor**
 
@@ -266,7 +266,7 @@ Designation: **Executive Editor**
 
 ----
 
-**The Monthly Computer Tomorrow** / Jan 2001 - Feb 2002
+**The Monthly Computer Tomorrow** / Jan 2001 - Feb 2002 / Dhaka
 
 Designation: **Technical Editor**
 
@@ -275,6 +275,8 @@ Designation: **Technical Editor**
 - Editorial Work
 
 - Technical Writing
+
+----
 
 
 ### Languages & Degrees of Proficiency
@@ -298,3 +300,23 @@ Arabic | None | Basic | Basic
 ### Personal
 
 Married.
+
+
+![Photo](service.jpg)
+
+
+### Available for Projects
+
+I and my Team is available for custom development projects. My team has the skill-sets of PHP, Python, Dot Net, Android/ Java, Dart, WordPress, Joomla. For free quotation please contact me via Whatsapp, Phone, Email or Skype.
+
+
+### Contact Details
+
+Phone / Viber / Whataspp: +880 192 457 2887
+
+Email: sadiq.alam@gmail.com and sadiq@metakave.com
+
+
+
+
+
