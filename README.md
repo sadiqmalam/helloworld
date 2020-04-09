@@ -4,10 +4,6 @@ I am a Tech Entrepreneur with about 20 years of experience in IT. Founder of a n
 
 ![Photo](0og-sadiq.jpg)
 
-<img src="https://github.com/sadiqmalam/helloworld/blob/master/0og-sadiq.jpg"
-     alt="Sadiq M. Alam Photo"
-     style="width:100%" />
-
 ### Education & Scholarships
 
 - [x]&nbsp;  **Masters of Engineering (M. Engg.)** by Research at National University of Singapore (NUS). 2006, Singapore
